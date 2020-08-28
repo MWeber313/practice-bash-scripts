@@ -10,3 +10,5 @@ which:
 chmod:
 -changes mode of a file
 -change whether it can be read, written, or executed
+-chmod -x means I cannot run the command in the directory
+-chmod +x means I can run the command in the directory
